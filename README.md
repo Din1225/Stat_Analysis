@@ -1,14 +1,20 @@
 # 統計思維與分析
 The Final Report  of Statistic Analysis in NTHU course
 
-研究問題:
+#研究問題
 Q:由參與者的學習年份與同理心的相關性，來探討讀醫學系是否會增加同理心
+
 Q:由學術動機與抑鬱值、心理壓力的相關性，以探討學習的熱忱越高是否會降低抑鬱值
+
 Q:以參與者的每周學習時間以及特質焦慮量的相關性，探討學習時間是否影響焦慮的生成
 
-DataSet:https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?select=Data+Carrard+et+al.+2022+MedTeach.csv from Kaggle
+
+#DataSet
+
+https://www.kaggle.com/datasets/thedevastator/medical-student-mental-health?select=Data+Carrard+et+al.+2022+MedTeach.csv from Kaggle
 
 該數據集包含瑞士醫學生的同理心、心理健康和職業倦怠數據，包括人口統計信息、自我報告的健康狀況、心理測試結果和調查回复
+
 1. 年齡：參與者的年齡。（整數）
 2. 年齡：參與者的年齡。（整數）
 3. year：參與者的學習年份。（整數）
